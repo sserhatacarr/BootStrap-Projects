@@ -1,3 +1,3 @@
 ![InstagramClone]
 
-[-]: InstagramClone.png
+[-]: /Project2/assets/İnstagramClone.png
